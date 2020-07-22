@@ -15,6 +15,7 @@
 		3261B19724C7DFEA00A1B3BE /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 3261B19524C7DFEA00A1B3BE /* LaunchScreen.storyboard */; };
 		3261B1A224C7DFEA00A1B3BE /* BruceSubAProjTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3261B1A124C7DFEA00A1B3BE /* BruceSubAProjTests.swift */; };
 		3261B1AD24C7DFEA00A1B3BE /* BruceSubAProjUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3261B1AC24C7DFEA00A1B3BE /* BruceSubAProjUITests.swift */; };
+		32E32C5624C7EAF500F374A5 /* SubAProjViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 32E32C5524C7EAF500F374A5 /* SubAProjViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		3261B1A824C7DFEA00A1B3BE /* BruceSubAProjUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = BruceSubAProjUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		3261B1AC24C7DFEA00A1B3BE /* BruceSubAProjUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BruceSubAProjUITests.swift; sourceTree = "<group>"; };
 		3261B1AE24C7DFEA00A1B3BE /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		32E32C5524C7EAF500F374A5 /* SubAProjViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SubAProjViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -106,6 +108,7 @@
 				3261B19324C7DFEA00A1B3BE /* Assets.xcassets */,
 				3261B19524C7DFEA00A1B3BE /* LaunchScreen.storyboard */,
 				3261B19824C7DFEA00A1B3BE /* Info.plist */,
+				32E32C5524C7EAF500F374A5 /* SubAProjViewController.swift */,
 			);
 			path = BruceSubAProj;
 			sourceTree = "<group>";
@@ -259,6 +262,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				32E32C5624C7EAF500F374A5 /* SubAProjViewController.swift in Sources */,
 				3261B18F24C7DFE900A1B3BE /* ViewController.swift in Sources */,
 				3261B18B24C7DFE900A1B3BE /* AppDelegate.swift in Sources */,
 				3261B18D24C7DFE900A1B3BE /* SceneDelegate.swift in Sources */,
